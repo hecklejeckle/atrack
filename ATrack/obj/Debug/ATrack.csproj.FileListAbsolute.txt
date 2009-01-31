@@ -1,0 +1,7 @@
+C:\Users\hangeles\Documents\Visual Studio 2008\Projects\ATrack\ATrack\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hangeles\Documents\Visual Studio 2008\Projects\ATrack\ATrack\bin\Debug\ATrack.exe
+C:\Users\hangeles\Documents\Visual Studio 2008\Projects\ATrack\ATrack\bin\Debug\ATrack.pdb
+C:\Users\hangeles\Documents\Visual Studio 2008\Projects\ATrack\ATrack\bin\Debug\ATrackLib.dll
+C:\Users\hangeles\Documents\Visual Studio 2008\Projects\ATrack\ATrack\bin\Debug\ATrackLib.pdb
+C:\Users\hangeles\Documents\Visual Studio 2008\Projects\ATrack\ATrack\obj\Debug\ATrack.exe
+C:\Users\hangeles\Documents\Visual Studio 2008\Projects\ATrack\ATrack\obj\Debug\ATrack.pdb
